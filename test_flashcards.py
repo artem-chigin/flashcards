@@ -1,6 +1,6 @@
 # from unittest import TestCase
 import unittest
-from flashcards import num_input
+from f_card import num_input
 # import flashcards
 
 
